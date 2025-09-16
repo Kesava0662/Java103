@@ -1,0 +1,9 @@
+Home Page:
+   loginPagepagetitle: "login"
+Demo Web Shop:
+   LoginLinkXPATH: "//a[contains(.,'Log in')]"
+   RegisterLinkXPATH: "//a[contains(.,'Register')]"
+   ShoppingcartLinkXPATH: "//span[contains(.,'Shopping cart')]"
+   WishlistLinkXPATH: "//span[contains(.,'Wishlist')]"
+   DefaultpagepageTitle: ""
+   messageLabeltext: ""

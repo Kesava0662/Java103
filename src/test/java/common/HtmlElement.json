@@ -1,0 +1,58 @@
+[
+  {
+    "locator": "//a[contains(.,'Log in')]",
+    "target": "<a href='/login' class='ico-login'>Log in</a>"
+  },
+  {
+    "locator": "//input[@id='Email']",
+    "target": "<input autofocus='autofocus' class='email valid' id='Email' name='Email' type='text' value=''>"
+  },
+  {
+    "locator": "//input[@id='Password']",
+    "target": "<input class='password valid' id='Password' name='Password' type='password'>"
+  },
+  {
+    "locator": "(//input[@type='submit'])[2]",
+    "target": "<input class='button-1 login-button' type='submit' value='Log in' style=''>"
+  },
+  {
+    "locator": "(//a[contains(.,'Books')])[1]",
+    "target": "<a href='/books' class='hover'>Books</a>"
+  },
+  {
+    "locator": "(//a[contains(.,'Computers')])[1]",
+    "target": "<a href='/computers' class='hover'>Computers</a>"
+  },
+  {
+    "locator": "(//a[contains(.,'Electronics')])[1]",
+    "target": "<a href='/electronics' class='hover'>Electronics</a>"
+  },
+  {
+    "locator": "(//a[contains(.,'Apparel & Shoes')])[1]",
+    "target": "<a href='/apparel-shoes' class='hover'>Apparel &amp; Shoes</a>"
+  },
+  {
+    "locator": "(//a[contains(.,'Digital downloads')])[1]",
+    "target": "<a href='/digital-downloads' class='hover'>Digital downloads</a>"
+  },
+  {
+    "locator": "(//a[contains(.,'Jewelry')])[1]",
+    "target": "<a href='/jewelry' class='hover'>Jewelry</a>"
+  },
+  {
+    "locator": "(//a[contains(.,'Gift Cards')])[1]",
+    "target": "<a href='/gift-cards' class='hover'>Gift Cards</a>"
+  },
+  {
+    "locator": "//a[contains(.,'Register')]",
+    "target": "<a href='/register' class='ico-register'>Register</a>"
+  },
+  {
+    "locator": "//span[contains(.,'Shopping cart')]",
+    "target": "<span class='cart-label'>Shopping cart</span>"
+  },
+  {
+    "locator": "//span[contains(.,'Wishlist')]",
+    "target": "<span class='cart-label'>Wishlist</span>"
+  }
+]
